@@ -267,7 +267,7 @@ footer a
 
   #notations > div:hover img
   {
-    transform: scale(1.3);
+    transform: scale(1.3) rotate(-73deg);
     filter: drop-shadow(0 0 12px rgb(255, 200, 0));
   }
 
